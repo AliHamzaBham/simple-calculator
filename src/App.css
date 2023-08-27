@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+
+.input {
+  height: 30px;
+  width: 200px;
+}
+
+.btns {
+  margin-top: 20px;
+}
+.btns .all-btns {
+  margin: 0px 10px;
+}
